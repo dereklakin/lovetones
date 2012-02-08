@@ -1,0 +1,17 @@
+﻿<Grid xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      Background="Black"
+      Height="80"
+      HorizontalAlignment="Stretch"
+      MinWidth="480">
+    <HyperlinkButton Height="80"
+                     HorizontalAlignment="Center"
+                     MinWidth="480"
+                     NavigateUri="http://windowsphone.com/s?appid=34faead2-651a-404d-86fb-7c3a57600cdb"
+                     TargetName="_blank"
+                     VerticalAlignment="Center">
+        <HyperlinkButton.Background>
+            <ImageBrush ImageSource="http://snac.nokia.com/hosted/82/e6/-nokia-lumia-800-9-a4bc.jpg"
+                        Stretch="None" />
+        </HyperlinkButton.Background>
+    </HyperlinkButton>
+</Grid>
