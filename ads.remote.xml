@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AdSettings>
+    <CountryDescriptors>
+        <AdCountryDescriptor Country="US">
+            <Probability Value="65" AdProvider="PubCenter" />
+            <Probability Value="10" AdProvider="AdMob" />
+            <Probability Value="10" AdProvider="MobFox" />
+            <Probability Value="10" AdProvider="Smaato" />
+            <Probability Value="5" AdProvider="AdDuplex" />
+        </AdCountryDescriptor>
+
+        <AdCountryDescriptor Country="GB">
+            <Probability Value="65" AdProvider="PubCenter" />
+            <Probability Value="10" AdProvider="AdMob" />
+            <Probability Value="10" AdProvider="MobFox" />
+            <Probability Value="10" AdProvider="Smaato" />
+            <Probability Value="5" AdProvider="AdDuplex" />
+        </AdCountryDescriptor>
+
+        <AdCountryDescriptor>
+            <Probability Value="35" AdProvider="PubCenter" />
+            <Probability Value="20" AdProvider="AdMob" />
+            <Probability Value="25" AdProvider="MobFox" />
+            <Probability Value="15" AdProvider="Smaato" />
+            <Probability Value="5" AdProvider="AdDuplex" />
+        </AdCountryDescriptor>
+
+    </CountryDescriptors>
+
+</AdSettings>
